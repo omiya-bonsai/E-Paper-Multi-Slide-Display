@@ -1,0 +1,61 @@
+[
+  {
+    "year": 2025,
+    "month": 7,
+    "members": [
+      "Member A",
+      "Member B",
+      "Member C",
+      "General"
+    ],
+    "schedules": [
+      {
+        "date": "2025-07-21",
+        "Member A": "Project Meeting @10:00",
+        "Member B": "",
+        "Member C": "Evening Class @18:30",
+        "General": "Public Holiday"
+      },
+      {
+        "date": "2025-07-22",
+        "Member A": "",
+        "Member B": "Gym",
+        "Member C": "",
+        "General": ""
+      },
+      {
+        "date": "2025-07-25",
+        "Member A": "",
+        "Member B": "Dentist @14:00",
+        "Member C": "Evening Class @17:00",
+        "General": ""
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "members": [
+      "Member A",
+      "Member B",
+      "Member C",
+      "General"
+    ],
+    "schedules": [
+      {
+        "date": "2025-08-11",
+        "Member A": "",
+        "Member B": "",
+        "Member C": "",
+        "General": "Public Holiday"
+      },
+      {
+        "date": "2025-08-15",
+        "Member A": "Submit Report",
+        "Member B": "",
+        "Member C": "Evening Class @18:30",
+        "General": "Team Lunch"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "learning_slide": {
+    "content_file": "learning_content.json",
+    "entrance_year": 2022,
+    "header_template": "Today's Learning: {subject}"
+  },
+  "weather_slide_loc1": {
+    "latitude": 35.8617,
+    "longitude": 139.6455,
+    "city_name": "Tokyo"
+  },
+  "weather_slide_loc2": {
+    "latitude": 26.3984,
+    "longitude": 127.7419,
+    "city_name": "Okinawa"
+  }
+}

@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+backup
+family_schedule.json
+schedule.json
+tmp/
+waste/
+utils/waste/
