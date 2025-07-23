@@ -85,7 +85,7 @@ python3 main.py
 
 このプロジェクトは、以下の素晴らしいプロジェクトやサービスを利用して作成されました。心より感謝申し上げます。
 
-  * **アイコン & 摂氏記号 (Icons & Celsius Symbol):**
+  * **アイコン (Icons):**
 
       * **ソース:** [weather-crow5.7](https://github.com/kotamorishi/weather-crow5.7) by kotamorishi
       * **ライセンス:** MIT License
