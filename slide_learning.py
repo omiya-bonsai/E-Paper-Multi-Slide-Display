@@ -10,7 +10,7 @@ def load_config():
     """設定ファイル(config.json)を読み込む"""
     try:
         with open('config.json', 'r', encoding='utf-8') as f:
-            config = json.load()
+            config = json.load(f)
         return config.get('learning_slide', {})
     except Exception:
         return {} # エラーの場合は空の設定を返す
@@ -50,6 +50,12 @@ def get_daily_topic(config):
 
     weekday = datetime.datetime.now().weekday()
     subjects = list(content[grade_key].keys())
+
+    # ★★★ 以下の3行を追加 ★★★
+    # もし科目が一つも登録されていなければ、エラーを返して終了
+    if not subjects:
+        return "エラー", {"title": "学習コンテンツエラー", "body": f"{grade_key}に科目が登録されていません。"}
+
     subject_key = subjects[weekday % len(subjects)]
     topic = random.choice(content[grade_key][subject_key])
 

@@ -53,7 +53,7 @@ def load_config(location_key):
     """設定ファイル(config.json)から指定されたロケーションの設定を読み込む"""
     try:
         with open('config.json', 'r', encoding='utf-8') as f:
-            config = json.load()
+            config = json.load(f)
         # config.jsonの中から、引数で指定されたキー(例: 'weather_slide_loc1')の部分だけを返す
         return config.get(location_key, {})
     except Exception as e:
