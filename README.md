@@ -4,8 +4,7 @@
 
 Raspberry PiとWaveshare社製の4.26インチ電子ペーパーディスプレイを使用して、天気予報、カレンダー、学習リマインダーなどの情報を表示するためのPythonプロジェクトです。
 
-![images](https://github.com/user-attachments/assets/50668af2-2974-4af2-a059-568ca791a538)
-![image](https://github.com/user-attachments/assets/f97f2492-819a-46c0-936c-a64fbb48cdc7)
+![image](https://github.com/user-attachments/assets/221dc9fa-b5e4-4fde-bedb-bbf938a863b0)
 
 ---
 
