@@ -2,7 +2,7 @@
 
 ![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini%202.5%20Pro-4285F4)
 
-これは、Raspberry PiとWaveshare社製の4.26インチ電子ペーパーディスプレイを使用して、天気予報、カレンダー、学習リマインダーなどの情報を表示するためのPythonプロジェクトです。
+Raspberry PiとWaveshare社製の4.26インチ電子ペーパーディスプレイを使用して、天気予報、カレンダー、学習リマインダーなどの情報を表示するためのPythonプロジェクトです。
 
 ![images](https://github.com/user-attachments/assets/50668af2-2974-4af2-a059-568ca791a538)
 
