@@ -1,7 +1,7 @@
 {
   "learning_slide": {
     "content_file": "learning_content.json",
-    "entrance_year": 2022,
+    "entrance_year": 2025,
     "header_template": "Today's Learning: {subject}"
   },
   "weather_slide_loc1": {
